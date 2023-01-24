@@ -1,0 +1,15 @@
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\bin\Debug\net6.0\Example003_Summ.exe
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\bin\Debug\net6.0\Example003_Summ.deps.json
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\bin\Debug\net6.0\Example003_Summ.runtimeconfig.json
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\bin\Debug\net6.0\Example003_Summ.dll
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\bin\Debug\net6.0\Example003_Summ.pdb
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\Example003_Summ.csproj.AssemblyReference.cache
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\Example003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\Example003_Summ.AssemblyInfoInputs.cache
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\Example003_Summ.AssemblyInfo.cs
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\Example003_Summ.csproj.CoreCompileInputs.cache
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\Example003_Summ.dll
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\refint\Example003_Summ.dll
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\Example003_Summ.pdb
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\Example003_Summ.genruntimeconfig.cache
+C:\Users\Start\Desktop\учеба ГикБейнс\3. знакомство с С#\лекция 1\Example003_Summ\obj\Debug\net6.0\ref\Example003_Summ.dll
